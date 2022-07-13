@@ -165,6 +165,7 @@ background-color: var(--hero-bg-color);
 text-align: center;
 padding-top: 200px;
 padding-bottom: 200px;
+height: 600px;
 }
 
 .hero-title {
@@ -264,6 +265,7 @@ margin-right: 30px;
 .team-content {
 padding-top: 30px;
 padding-bottom: 30px;
+background-color: var(--primary-white-color);
 }
 
 .team-title {
@@ -305,10 +307,6 @@ background-color: var(--bg-color);
 border: transparent;
 border-radius: 4px;
 
-}
-
-.filtr .btn-current {
-background-color: var(--primary-white-color);
 }
 
 .filtr .link:hover,
